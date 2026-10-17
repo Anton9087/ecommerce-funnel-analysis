@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+sqlalchemy
+psycopg2-binary
+jupyter
